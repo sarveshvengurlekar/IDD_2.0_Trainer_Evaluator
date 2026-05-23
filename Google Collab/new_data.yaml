@@ -1,0 +1,23 @@
+#Dataset Configurations.
+path: IDDDetectionsYOLODataset/
+
+names:
+  - animal
+  - autorickshaw
+  - bicycle
+  - bus
+  - car
+  - caravan
+  - motorcycle
+  - person
+  - rider
+  - traffic light
+  - traffic sign
+  - trailer
+  - train
+  - truck
+  - vehicle fallback
+nc: 15
+test: /root/.cache/kagglehub/datasets/redzapdos123/indian-driving-dataset-detections-yolov11/versions/1/IDDDetectionsYOLODataset/test/images
+train: /root/.cache/kagglehub/datasets/redzapdos123/indian-driving-dataset-detections-yolov11/versions/1/IDDDetectionsYOLODataset/train/images
+val: /root/.cache/kagglehub/datasets/redzapdos123/indian-driving-dataset-detections-yolov11/versions/1/IDDDetectionsYOLODataset/val/images
