@@ -1,4 +1,4 @@
-# IDD 2.0 Trainer Evaluator
+# Object Detection IDD 2.0 Trainer Evaluator
 
 A comprehensive Jupyter Notebook-based project for training and evaluating Indian Document Detection (IDD) 2.0 models. This repository contains tools and workflows for document detection, model comparison, and performance evaluation.
 
